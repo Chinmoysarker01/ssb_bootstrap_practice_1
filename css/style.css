@@ -1,0 +1,46 @@
+.col-sm{
+	background-color: red;
+}
+.col{
+	border: 1px dotted red;
+}
+.col-md-8{
+	border: 1px dotted red;
+}
+.col-6 col-md-4{
+	border: 1px dotted red;
+}
+.col-6{
+	border: 1px dotted red;
+}
+.col-sm-3{
+	border: 1px dotted red;
+}
+.col-8 col-sm-6{
+	border: 1px dotted red;
+}
+.col-4 col-sm-6{
+	border: 1px dotted red;
+}
+.container_2{
+	height: 100px;
+	padding: 50px;
+}
+.col-4{
+	border: 1px dotted red;
+}
+.col-9{
+	border: 1px dotted red;
+}
+.col-md-4{
+	border: 1px dotted red;
+}
+.col-md-4 offset-md-4{
+	border: 1px dotted red;
+}
+.col-md-3 offset-md-3{
+	border: 1px dotted red;
+}
+.col-md-6 offset-md-3{
+	border: 1px dotted red;
+}
